@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android-java-helloworld</string>
+    <string name="hello_text">你好，第一个Java写的安卓程序</string>
+</resources>
